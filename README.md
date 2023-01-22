@@ -11,7 +11,13 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=lancekenji&style=flat-square&color=blue" alt=""/>
   <h1> I'm Lance Kenji Parce </h1>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300" />
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300" />
+  ---
+  ### 👨‍💻 About Me:
+  I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines 🇵🇭.
+  - 👨‍🎓 I am a first-year college student pursuing a Bachelor's degree in Computer Science.
+  - ⚡ In my free time, I accept web development commissions from students around my country.
+  - 📫 How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/lance_aswwscxzc)
 </div>

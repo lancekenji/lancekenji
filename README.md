@@ -13,7 +13,10 @@
   <h1> I'm Lance Kenji Parce </h1>
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300" />
 </div>
+
 ---
+
+
 ### 👨‍💻 About Me:
 I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines 🇵🇭.
 - 👨‍🎓 I am a first-year college student pursuing a Bachelor's degree in Computer Science.

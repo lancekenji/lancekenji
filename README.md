@@ -16,6 +16,8 @@
 
 ---
 
+![lancekenji's Stats](https://github-readme-stats.vercel.app/api?username=lancekenji&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+
 
 ### 👨‍💻 About Me:
 I am a Developer | Bug Bounty Hunter | Pentetration Tester <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines 🇵🇭.

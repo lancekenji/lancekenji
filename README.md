@@ -14,7 +14,8 @@
 </div>
 
 ![lancekenji's Stats](https://github-readme-stats.vercel.app/api?username=lancekenji&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-
+![lancekenji's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lancekenji&theme=vue-dark&hide_border=false)
+![lancekenji's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lancekenji&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 
 ### 👨‍💻 About Me:
 I am a Developer | Bug Bounty Hunter | Pentetration Tester <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines 🇵🇭.

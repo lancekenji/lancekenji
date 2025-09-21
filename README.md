@@ -2,7 +2,7 @@
   <img src="https://images.weserv.nl/?url=https://media1.giphy.com/media/h0Mj8jM2gB9a1eNn8Z/giphy.gif&v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d&output=gif&n=-1" width="100"/>
 </p>
 
-<p align="center">
+<p align="center" id="badges">
   <a href="https://www.youtube.com/@mis4nthrop1a">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white"/>
   </a>

@@ -13,8 +13,6 @@
   <h1> I'm Lance Kenji Parce </h1>
 </div>
 
----
-
 ![lancekenji's Stats](https://github-readme-stats.vercel.app/api?username=lancekenji&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
 

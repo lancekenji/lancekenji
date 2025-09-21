@@ -14,8 +14,8 @@
 </div>
 
 ![lancekenji's Stats](https://github-readme-stats.vercel.app/api?username=lancekenji&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-![lancekenji's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lancekenji&theme=vue-dark&hide_border=false)
 ![lancekenji's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lancekenji&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+![lancekenji's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lancekenji&theme=vue-dark&hide_border=false)
 
 ### 👨‍💻 About Me:
 I am a Developer | Bug Bounty Hunter | Pentetration Tester <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines 🇵🇭.
@@ -42,9 +42,3 @@ I am a Developer | Bug Bounty Hunter | Pentetration Tester <img src="https://med
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ssh/ssh-original.svg" title="SSH" alt="SSH" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### 🔥 My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lancekenji&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lancekenji&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

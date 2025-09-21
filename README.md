@@ -1,17 +1,13 @@
 <div id="header" align="center">
-  <!-- <img src="https://media.giphy.com/media/h0Mj8jM2gB9a1eNn8Z/giphy.gif" width="100"/> -->
   <img src="https://images.weserv.nl/?url=https://media1.giphy.com/media/h0Mj8jM2gB9a1eNn8Z/giphy.gif&v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d&output=gif&n=-1" width="100"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/lancekenjiparce/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.youtube.com/@lancekenjiparce/">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-  </div>
   <img src="https://komarev.com/ghpvc/?username=lancekenji&style=flat-square&color=blue" alt=""/>
   <h1> I'm Lance Kenji Parce </h1>
 </div>
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@mis4nthrop1a)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/lancekenjiparce/)
+[![Blog](https://img.shields.io/badge/Blog-880808)](https://mis4nthr0pia.xyz/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mis4nthrop1a/)
 
 ![lancekenji's Stats](https://github-readme-stats.vercel.app/api?username=lancekenji&theme=vue-dark&show_icons=true&hide_border=false&count_private=true&layout=compact)
 ![lancekenji's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lancekenji&theme=vue-dark&hide_border=false&layout=compact)

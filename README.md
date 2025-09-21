@@ -11,7 +11,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=lancekenji&style=flat-square&color=blue" alt=""/>
   <h1> I'm Lance Kenji Parce </h1>
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300" />
+  [![lancekenji's Stats](https://github-readme-stats.vercel.app/api?username=lancekenji&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)]
 </div>
 
 ---
